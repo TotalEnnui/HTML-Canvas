@@ -1,5 +1,8 @@
 canvas {
-    width: 200;
-    height: 100;
-    border:1px solid #f81546;
+    border:1px solid #010002;
+    background-color: white;
+}
+
+body{
+    margin: 0px;
 }
